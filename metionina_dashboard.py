@@ -39,7 +39,7 @@ if menu == "Inicio":
         """
     )
     st.image(
-        "/Users/camilaocampo/Desktop/bioinformatica/download.jpeg",
+        "download.jpeg",
         caption="Estructura química de la Metionina",
         use_column_width=True,
     )
